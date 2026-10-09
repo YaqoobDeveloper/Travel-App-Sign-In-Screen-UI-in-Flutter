@@ -12,6 +12,13 @@ https://yaqoobdeveloper.github.io/Travel-App-Sign-In-Screen-UI-in-Flutter/
 💻 **GitHub Repository:**  
 https://github.com/YaqoobDeveloper/Travel-App-Sign-In-Screen-UI-in-Flutter
 
+▶️ **Video Demo:**  
+https://youtube.com/shorts/HcuOsWRHnyA
+
+## 📸 Preview
+
+<img width="857" height="900" alt="Image" src="https://github.com/user-attachments/assets/2dee0df1-222e-43da-b0d3-574227e233c1" />
+
 ## ✨ Features
 
 - 🌌 Night-blue gradient background with sparkle stars
